@@ -19,6 +19,7 @@ Onion Architecture: this architecture is made up of multiple concentric layers t
 
 The Clean architecture: Uncle Bob's architecture is based on the dependency inversion principle to define boundaries between high-level and low-level components. Furthermore, this architecture attempts to combine all previous architectures into a single actionable idea.
 the fundamental objective of all these architectures is to achieve a clear separation of concerns.
+<img src="https://github.com/user-attachments/assets/c33806bb-5e7d-4e59-9b17-b79b54a93d82" width="200" />
 ![image](https://github.com/user-attachments/assets/c33806bb-5e7d-4e59-9b17-b79b54a93d82) ![image](https://github.com/user-attachments/assets/b99af1a6-6756-4b7e-9c34-a0e65f9975b0)
 
 
